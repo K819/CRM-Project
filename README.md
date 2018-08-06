@@ -1,4 +1,4 @@
-#CRM-Project
+# CRM-Project
 微信生态会员闭环系统打通实战,主要内容是相关项目后端及微信生态打通.
 
 按照如下章节持续更新.
@@ -16,7 +16,7 @@
 * **会员CRM数据库管理**
 * **微信模版消息-事件推送**
 
-###主要参考材料
+### 主要参考材料
 
 * 微信公众平台开发者文档@https://mp.weixin.qq.com/wiki
 * 微信开放平台资源中心@https://open.weixin.qq.com/cgi-bin/showdocument
